@@ -1,5 +1,5 @@
 <?php
-namespace Boot\HolaMundoL\Controller\Index;
+namespace Bootcampl\HolaMundoL\Controller\Index;
 
 class Index implements \Magento\Framework\App\Action\HttpGetActionInterface
 {
